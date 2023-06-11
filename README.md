@@ -35,12 +35,19 @@ The course materials include presentation slides, code examples, and exercises t
 To get started with the Jest course, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
-
+```
+git clone https://github.com/FADHILI-Josue/jest-course.git
+```
 
 2. Install the necessary dependencies by running the following command:
 
+```
+npm install / yarn
+```
+
 
 3. Explore the course materials in the repository. The materials are organized into modules, each containing code examples and exercises to work on.
+##### read the docs.txt file in the repo to start learning
 
 4. Follow the instructions provided in each module to learn and practice the concepts.
 
