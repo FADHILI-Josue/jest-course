@@ -55,3 +55,4 @@ When contributing, please ensure that your code and changes align with the exist
 ## License
 
 The content of this repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the materials for personal or commercial purposes. However, please attribute the original work to the course authors and maintain the license information in any derivative works.
+
