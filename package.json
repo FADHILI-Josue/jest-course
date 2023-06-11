@@ -1,15 +1,19 @@
 {
-  "name": "jest",
+  "name": "jest_testing_course",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
